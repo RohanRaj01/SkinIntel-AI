@@ -1,0 +1,6 @@
+flask
+tensorflow
+pandas
+scikit-learn
+pillow
+requests
